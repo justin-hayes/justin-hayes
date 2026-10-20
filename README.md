@@ -1,6 +1,6 @@
 # Hi, I'm Justin 👋
 
-I'm a software developer in Berlin. Outside work, I build tools for reading in other languages, especially German, Greek, and Italian, and for the literature and history behind them.
+I'm a software developer in Berlin. Outside work, I build tools for reading in other languages, especially German, Greek, and Italian. I enjoy experiencing literature, history, folktale, and myth through primary sources.
 
 ### Currently building
 
